@@ -1,0 +1,22 @@
+{
+    "name": "Morphine Finance",
+    "type": "BEP20",
+    "symbol": "MoRF",
+    "decimals": 9,
+    "website": "https://morphine.finance/",
+    "description": "Morphine Finance is a community driven, fair launched DeFi Token.
+Three functions during each trade: 1.Reflection 2.LP Acquisition 3.Burn.",
+    "explorer": "https://bscscan.com/token/0x1571c2AB125318B966FbF829159cD239da9f9042",
+    "status": "active",
+    "id": "0x1571c2AB125318B966FbF829159cD239da9f9042",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MoRF_Token"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/morf_ann"
+        },
+    ]
+}
